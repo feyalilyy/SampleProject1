@@ -389,18 +389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StartScreen
       objectReference: {fileID: 0}
-    - target: {fileID: 3122076280662577027, guid: 5325641d42aca3747bd740b2305e2240, type: 3}
-      propertyPath: m_Animations.Array.size
+    - target: {fileID: 196847646070605430, guid: 5325641d42aca3747bd740b2305e2240, type: 3}
+      propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3122076280662577027, guid: 5325641d42aca3747bd740b2305e2240, type: 3}
-      propertyPath: m_Animations.Array.data[0]
-      value: 
-      objectReference: {fileID: 7400000, guid: c7b65f78829244f40abb12f16a5436f1, type: 2}
-    - target: {fileID: 3122076280662577027, guid: 5325641d42aca3747bd740b2305e2240, type: 3}
-      propertyPath: m_Animations.Array.data[1]
-      value: 
-      objectReference: {fileID: 7400000, guid: c7b65f78829244f40abb12f16a5436f1, type: 2}
     - target: {fileID: 4725656304425884687, guid: 5325641d42aca3747bd740b2305e2240, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
